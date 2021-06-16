@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngakana 🇿🇦za
-- 👀 I’m interested in web development and computer vision
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning Golang and web development with the MERN stack
 - 📫 How to reach me: nlsalemane@gmail.com
 
