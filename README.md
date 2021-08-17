@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngakana 🇿🇦za
-- 📬 Get in touch: [twitter](twitter.com/scaradev)  |  [email](nlsalemane@gmail.com)
+- 📬 Get in touch: [@scaradev](twitter.com/scaradev)  |  [nlsalemane@gmail.com](nlsalemane@gmail.com)
 
 <!---
 ngakana/ngakana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
